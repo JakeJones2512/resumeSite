@@ -1,0 +1,117 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+
+.box_containers {
+    height: 100vh;
+    margin: 0;
+}
+
+#first_div {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+#skills {
+    margin-top: 0;
+}
+
+#projects {
+}
+
+#experience {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#second_div {
+    background-color: #FFC904;
+    margin: 0;
+    height: 100vh;
+}
+
+.Secondinside {
+    margin: 0;
+    border: 0;
+    display: inline-block;
+    width: 49%;
+    height: 100vh;
+    vertical-align: top;
+}
+
+h2 {
+    padding-left: 10%;
+    text-decoration: underline;
+    font-size: 50px;
+}
+#list {
+    padding-left: 20%;
+}
+
+#list2 {
+    padding-left: 20%;
+}
+
+.items {
+    padding-top: 10px;
+}
+
+#Secondright {
+    border-left: 3px solid black;
+}
+#Secondleft {
+}
+
+
+h1 {
+    color: white;
+    margin: 0;
+    padding-top: 50px;
+    font-size: 100px;
+    font-family: "Times New Roman", serif;
+}
+
+#profileImage {
+    display: block;
+    padding-top: 25px;
+    height: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#school {
+    margin-bottom: 0;
+}
+
+.toolbar {
+    margin: 0;
+    height: 5%;
+    width: 100%;
+    color: white;
+    background-color: #242526;
+    position: fixed;
+    text-align: center;
+}
+
+.toolbarWords {
+    margin: 0;
+    font-size: 25px;
+    display: inline-block;
+    padding-left: 50px;
+}
+
+#links{
+    display: inline-block;
+    position: absolute;
+    left: 0;
+}
+
+
+.education {
+    font-size: 20px;
+}
